@@ -1,0 +1,7 @@
+에코 "# 라플러스" >> README.md
+그 안에 깃
+git 추가 README.md
+git commit -m "우선 커밋"
+git branch -M main
+git remote add origin https://github.com/LaplusSH/Laplus.git
+git push -u origin main
